@@ -1,0 +1,15 @@
+{
+  "name": "live-time",
+  "version": "1.0.0",
+  "description": "A live timer component for React",
+  "main": "live-time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "timer"
+  ],
+  "author": "surajsingh",
+  "license": "ISC"
+}
